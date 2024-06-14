@@ -20,7 +20,7 @@ Machine learning libraries (e.g., scikit-learn, pandas, NumPy)
 A code editor or IDE (e.g., Visual Studio Code, PyCharm)
 Installation:
 Clone this repository:
-git clone https://github.com/your-username/iris-flower-prediction.git
+[git clone https://github.com/your-username/iris-flower-prediction.git](https://github.com/Smrutir798/Iris-Flower-Prediction)
 
 **Navigate to the project directory:**
 cd iris-flower-prediction
